@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\bin\Debug\fsfs_2.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\obj\Debug\fsfs_2.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\bin\Debug\fsfs_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\bin\Debug\fsfs_2.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\obj\Debug\fsfs_2.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs_2\fsfs_2\fsfs_2\obj\Debug\fsfs_2.pdb

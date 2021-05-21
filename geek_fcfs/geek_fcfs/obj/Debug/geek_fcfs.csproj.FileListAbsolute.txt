@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\bin\Debug\geek_fcfs.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\bin\Debug\geek_fcfs.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\bin\Debug\geek_fcfs.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\obj\Debug\geek_fcfs.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\obj\Debug\geek_fcfs.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test_5\geek_fcfs\geek_fcfs\obj\Debug\geek_fcfs.pdb

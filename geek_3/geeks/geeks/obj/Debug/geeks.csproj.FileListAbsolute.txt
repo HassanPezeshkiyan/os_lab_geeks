@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\bin\Debug\geeks.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\obj\Debug\geeks.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\bin\Debug\geeks.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\bin\Debug\geeks.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\obj\Debug\geeks.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\geek_3\geeks\geeks\obj\Debug\geeks.pdb
